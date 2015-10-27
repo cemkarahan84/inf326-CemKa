@@ -146,3 +146,7 @@ C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.
 C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Google.resources.dll
 C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
