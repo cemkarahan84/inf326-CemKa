@@ -4,7 +4,8 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2 >Index</h2>
+<hr />
 
 <p>
     @Html.ActionLink("Create New", "Create")
@@ -12,8 +13,8 @@
     {
     <p>
         Genre: @Html.DropDownList("movieGenre", "All")
-        Title: @Html.TextBox("SearchString") <br />
-        <input type="submit" value="Filter" />
+        Title: @Html.TextBox("SearchString") 
+        <input class="i_filter" type="submit" value="Filter" />
     </p>
     }
     
