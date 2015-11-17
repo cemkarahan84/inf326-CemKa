@@ -48,8 +48,5 @@ C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity
 C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\bin\fr\System.Net.Http.Formatting.resources.dll
 C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.Http.resources.dll
 C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\bin\fr\System.Web.Http.WebHost.resources.dll
-C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
 C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
-C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
-C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
-C:\Users\cemka\Documents\GitHub\inf326-CemKa\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
